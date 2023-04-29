@@ -6,7 +6,7 @@ pipeline{
 
 				steps{
 
-					sh 'echi "Build Completed."'
+					sh 'echo "Build Completed."'
 
      		 }
 
